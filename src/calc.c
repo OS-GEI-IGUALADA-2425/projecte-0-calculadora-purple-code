@@ -11,3 +11,6 @@ float divisio(double a, double b){
 float arrel(double a){
     return sqrt(a);
 }
+float suma(int a, int b) {
+    return a + b;
+}
