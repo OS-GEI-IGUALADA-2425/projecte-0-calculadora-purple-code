@@ -14,3 +14,7 @@ float arrel(double a){
 float suma(int a, int b) {
     return a + b;
 }
+// calc.c
+float multiplicacio(int a, int b) {
+    return a * b;
+}
